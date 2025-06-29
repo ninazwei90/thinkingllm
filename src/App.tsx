@@ -344,7 +344,7 @@ function App() {
         <div className="text-center mb-6 sm:mb-8">
           <h1 className="text-2xl md:text-3xl lg:text-4xl font-normal mb-8 leading-tight" style={{ color: '#6750A4' }}>
             <span className="block sm:inline">What </span>
-            <span className="text-xl sm:text-2xl md:text-3xl inline-block mx-1">🐐</span>
+            <span className="text-xl sm:text-2xl md:text-3xl inline-block mx-1">🦙</span>
             <div className="inline-block relative mt-2 sm:mt-0">
               <button
                 ref={modelButtonRef}
@@ -519,7 +519,7 @@ function App() {
       {/* Full Width Community Section */}
       <div className="w-full px-2 sm:px-4 lg:px-6 mb-8 sm:mb-12">
         <div className="text-center mb-6 sm:mb-8">
-          <h2 className="text-2xl sm:text-3xl md:text-4xl font-normal mb-2 sm:mb-3 leading-tight text-[#6750A4]">
+          <h2 className="text-2xl sm:text-3xl md:text-4xl font-normal mb-2 sm:mb-3 leading-tight text-[]">
             🔥 Hot hidden thoughts 😂😱🤣
           </h2>
           <p className="text-gray-500 text-sm sm:text-base px-3 mb-6">
