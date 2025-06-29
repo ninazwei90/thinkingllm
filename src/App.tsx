@@ -374,7 +374,6 @@ function App() {
                 </div>
               )}
             </div>
-            <span className="text-xl sm:text-2xl md:text-3xl inline-block mx-1">🧠</span>
             <span className="block sm:inline mt-2 sm:mt-0"> is thinking about... ?</span>
           </h1>
         </div>
